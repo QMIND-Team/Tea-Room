@@ -1,2 +1,11 @@
+import pandas as pd
 
+df= pd.DataFrame()
+
+*.xml
+Tea Room/2016-2017/.DS_Store
+Tea Room/.DS_Store
+__pycache__/Testing.cpython-36.pyc
+*.iml
 *.csv
+Tea Room/2017-2018/.DS_Store
